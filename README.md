@@ -4,7 +4,7 @@
 
 ## Introduction
 
-While the Human Microbiome Project (HMP) significantly advanced our understanding of human microbiome, our recent revisiting of the fecal ITS2 sequencing data from HMP reveals two notable issues. First, technical variation in sequencing length or reads trimming introduces batch effects in downstream analyses. Second, using newly developed pipelines, we discovered a mismatch between the reported and actual amplification primers, which has significant implications for methodology standardization and cross-study comparisons. 
+While the Human Microbiome Project (HMP) significantly advanced our understanding of the human microbiome, our revisiting of its fecal ITS2 sequencing data reveals two significant issues. First, technical variations in sequencing or data processing introduce batch effects in downstream analyses. Second, we discovered a mismatch between the reported and actual amplification primers, which requires careful consideration when interpreting, reusing, or referencing HMP ITS2 data and methodology.
 
 ## Content
 
